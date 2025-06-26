@@ -1,9 +1,8 @@
-wheel
-torch==1.12.0
+torch>=2.0.0
+torchvision>=0.15.0
 pytorch_metric_learning==1.2.0
 numpy>=1.18.5
 pandas>=1.2.2
-torchvision==0.13.0
 matplotlib>=3.3.3
 pyyaml>=6.0
 timm==0.6.7
